@@ -24,3 +24,6 @@ Create a branch and change this README
 
 ### Learning process 2
 5 pm
+
+### Change 1
+Be aware of good practices in coding.
