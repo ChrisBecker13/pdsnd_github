@@ -27,3 +27,6 @@ Create a branch and change this README
 
 ### Change 1
 Be aware of good practices in coding.
+
+### Change 2
+Remember to check your changes with $ git status
