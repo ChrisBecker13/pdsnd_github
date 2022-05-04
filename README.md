@@ -16,3 +16,7 @@ bikeshare.py chicago.csv new_york_city.csv wasington.csv
 ### Credits
 Made for Cristhian Cachope (cjcachope@eafit.edu.co). Inspired by https://github.com/udacity/pdsnd_github.
 
+### Learning process
+Create a branch and change this README
+
+
