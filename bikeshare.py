@@ -18,7 +18,7 @@ def get_user_input(message, user_list):
     """
     An utility function to obtain user specific input value
     Args:
-        (str) message - an information message for a particular request
+        (str) message - an information message for a particular request.
     Returns:
         (str) user_data - requested data from user
     """
